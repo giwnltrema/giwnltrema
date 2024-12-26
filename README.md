@@ -1,17 +1,11 @@
-<p align="center">Sou um DBA (Database Administrator) apaixonado por tecnologia e otimização de dados, com sólida experiência em bancos de dados relacionais (SQL) e não relacionais (NoSQL). Ao longo da minha carreira, desenvolvi e administrei ambientes complexos, garantindo a integridade, segurança e performance dos sistemas. Além disso, possuo expertise em AWS, onde crio soluções escaláveis e seguras na nuvem, integrando as melhores práticas de DevOps e automação para impulsionar a eficiência operacional.</p>
+<p align="left">Sou um DBA (Database Administrator) apaixonado por tecnologia e otimização de dados, com sólida experiência em bancos de dados relacionais (SQL) e não relacionais (NoSQL). Ao longo da minha carreira, desenvolvi e administrei ambientes complexos, garantindo a integridade, segurança e performance dos sistemas. Além disso, possuo expertise em AWS, onde crio soluções escaláveis e seguras na nuvem, integrando as melhores práticas de DevOps e automação para impulsionar a eficiência operacional.</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=giwnltrema&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giwnltrema&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="120" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.redd.it/m66hhy1qnvjc1.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
@@ -57,5 +51,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giwnltrema/giwnltrema/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/giwnltrema/giwnltrema/output/github-snake.svg" />
 </picture>
+
+###
+
+###
+
+<img align="center" height="150" src="https://i.redd.it/m66hhy1qnvjc1.gif"  />
 
 ###
