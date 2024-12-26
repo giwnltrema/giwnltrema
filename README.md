@@ -2,12 +2,15 @@
 
 ###
 
-<div align="left">
+<div dsplay="inline-block" align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=giwnltrema&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giwnltrema&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="120" alt="languages graph"  />
 </div>
 
-<div align="left">
+</br>
+</br>
+
+<div dsplay="inline-block" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50" alt="microsoftsqlserver logo"  />
@@ -25,9 +28,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="50" alt="git logo"  />
 </div>
 
+</br>
+</br>
+
 ###
 
-<div align="left">
+<div dsplay="inline-block" align="left">
   <a href="https://www.linkedin.com/in/gabrielfddba/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -44,6 +50,9 @@
 
 ###
 
+</br>
+</br>
+
 <br clear="both">
 
 <picture>
@@ -51,11 +60,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giwnltrema/giwnltrema/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/giwnltrema/giwnltrema/output/github-snake.svg" />
 </picture>
-
-###
-
-###
-
-<img align="center" height="150" src="https://i.redd.it/m66hhy1qnvjc1.gif"  />
 
 ###
