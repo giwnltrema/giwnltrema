@@ -53,7 +53,7 @@
 </br>
 </br>
 
-<br clear="both">
+<br dsplay="inline-block" align="left">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giwnltrema/giwnltrema/output/github-snake-dark.svg" />
