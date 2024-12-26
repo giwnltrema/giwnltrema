@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="140" src="https://i.redd.it/m66hhy1qnvjc1.gif"  />
+<img align="right" height="150" src="https://i.redd.it/m66hhy1qnvjc1.gif"  />
 
 ###
 
@@ -23,7 +23,6 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="50" alt="git logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original-wordmark.svg" height="50" alt="grafana logo"  />
 </div>
 
 ###
