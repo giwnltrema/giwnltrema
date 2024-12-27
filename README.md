@@ -1,60 +1,21 @@
-<p align="left">Sou um DBA (Database Administrator) apaixonado por tecnologia e otimização de dados, com sólida experiência em bancos de dados relacionais (SQL) e não relacionais (NoSQL). Ao longo da minha carreira, desenvolvi e administrei ambientes complexos, garantindo a integridade, segurança e performance dos sistemas. Além disso, possuo expertise em AWS, onde crio soluções escaláveis e seguras na nuvem, integrando as melhores práticas de DevOps e automação para impulsionar a eficiência operacional.</p>
+# 💫 About Me:
+Sou um DBA (Database Administrator) apaixonado por tecnologia e otimização de dados, com sólida experiência em bancos de dados relacionais (SQL) e não relacionais (NoSQL). Ao longo da minha carreira, desenvolvi e administrei ambientes complexos, garantindo a integridade, segurança e performance dos sistemas. Além disso, possuo expertise em AWS, onde crio soluções escaláveis e seguras na nuvem, integrando as melhores práticas de DevOps e automação para impulsionar a eficiência operacional.
 
-###
 
-<div dsplay="inline-block" align="center">
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/trema.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielfddba) 
 
-<p align="center">
-<a href="https://github.com/giwnltrema">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=giwnltrema&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=giwnltrema&layout=donut&langs_count=8&theme=dracula"/>
-</a>
-</p>
+# 💻 Tech Stack:
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=giwnltrema&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=giwnltrema&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=giwnltrema&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=giwnltrema&icon=10&color=0)](https://visitcount.itsvg.in)
 
-</br>
-</br>
-
-<div dsplay="inline-block" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="mysql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="50" alt="microsoftsqlserver logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="50" alt="amazonwebservices logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" height="50" alt="mongodb logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" height="50" alt="postgresql logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="50" alt="python logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50" alt="bash logo"  />
-  <img width="10" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" height="50" alt="git logo"  />
-</div>
-
-</br>
-</br>
-
-###
-
-<div dsplay="inline-block" align="center">
-  <a href="https://www.linkedin.com/in/gabrielfddba/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/GabrielFDDBA" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
-  </a>
-  <a href="fduarte.gabriel13@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="trema." target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <br dsplay="inline-block" align="center">
 
