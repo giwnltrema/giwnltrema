@@ -5,7 +5,7 @@
 <div dsplay="inline-block" align="center">
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giwnltrema&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giwnltrema&layout=donutshow_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=giwnltrema&layout=donut&theme=dracula)
 
 </div>
 
