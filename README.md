@@ -4,7 +4,7 @@
 
 <div dsplay="inline-block" align="center">
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giwnltrema)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=giwnltrema)](https://github.com/giwnltrema/github-readme-stats)
   
   <img src="https://github-readme-stats.vercel.app/api?username=giwnltrema&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=giwnltrema&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="120" alt="languages graph"  />
