@@ -64,4 +64,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/giwnltrema/giwnltrema/output/github-snake.svg" />
 </picture>
 
+![Snake animation](https://github.com/giwnltrema/giwnltrema/blob/output/github-contribution-grid-snake-dark.svg)
+
 ###
