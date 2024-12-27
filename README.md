@@ -58,9 +58,6 @@
 
 <br dsplay="inline-block" align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giwnltrema/giwnltrema/output/github-snake-dark.svg" />
-</picture>
-
+![Snake animation](https://github.com/giwnltrema/giwnltrema/blob/output/github-contribution-grid-snake-dark.svg)
 
 ###
