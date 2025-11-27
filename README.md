@@ -15,7 +15,7 @@
 - Devoto de **telemetria primeiro**: métricas, logs e alertas opinados para bancos críticos.
 
 ### Toolbox que mais uso
-- **Bancos**: Postgres (Patroni/pgbouncer), MySQL (PXC/ProxySQL), MongoDB.
+- **Bancos (foco MongoDB)**: MongoDB (replicaset/sharding, backup/restore), Postgres (Patroni/pgbouncer), MySQL (PXC/ProxySQL).
 - **Cloud/Infra**: AWS (RDS, EC2, S3, VPC), Kubernetes, ArgoCD, Crossplane/Helm.
 - **Ops**: Python, PowerShell, Git, Observabilidade (Prometheus, Grafana, Loki, Alertmanager).
 - **Práticas**: SRE/DBRE, game days de failover, segurança de dados, finops aplicado a storage/IOPS.
@@ -35,11 +35,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com?user=giwnltrema&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giwnltrema&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giwnltrema&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=shell" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=giwnltrema&label=visitas&color=4F46E5&icon=5&pretty=true" alt="Visitantes">
+  <img src="https://komarev.com/ghpvc/?username=giwnltrema&label=visitas&color=4F46E5&style=flat-square" alt="Visitantes">
 </p>
 
 <p align="center">
