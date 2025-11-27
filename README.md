@@ -25,6 +25,12 @@
 - `Automação` — pipelines GitOps e scripts para acelerar onboarding e reduzir toil.
 - `Comunicação` — dashboards e scorecards para que times vejam saúde real do banco.
 
+### MongoDB highlights
+- Replication/sharding: desenho e operação de replSet e sharded clusters, balancing seguro.
+- Backup/restore: PITR via oplog + snapshots, restores testados e métricas de freshness.
+- Performance: tuning WiredTiger (cache, compression), índices/TTL, profiling amostrado.
+- Resiliência: readiness/liveness certeiras, fencing em failover, testes de game day.
+
 ### Repositórios em foco
 - [`dbre-control-plane`](https://github.com/giwnltrema/dbre-control-plane): visão e MVP do control plane DBRE (GitOps + observabilidade + backup verificado).
 - Cheatsheets e experimentos de banco/infra no perfil.
