@@ -2,8 +2,8 @@
 <p align="center">SQL & NoSQL · Observabilidade · Automação · AWS</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/gabrielfddba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://discord.gg/trema."><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://www.linkedin.com/in/gabrielfdbre/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://discord.gg/trema"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
   <a href="https://github.com/giwnltrema"><img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
 
