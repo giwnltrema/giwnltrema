@@ -1,28 +1,51 @@
-# 💫 About Me:
-Sou um DBA (Database Administrator) apaixonado por tecnologia e otimização de dados, com sólida experiência em bancos de dados relacionais (SQL) e não relacionais (NoSQL). Ao longo da minha carreira, desenvolvi e administrei ambientes complexos, garantindo a integridade, segurança e performance dos sistemas. Além disso, possuo expertise em AWS, onde crio soluções escaláveis e seguras na nuvem, integrando as melhores práticas de DevOps e automação para impulsionar a eficiência operacional.
+<h1 align="center">Gabriel Trema · DBRE | DBA | Cloud</h1>
+<p align="center">SQL & NoSQL · Observabilidade · Automação · AWS</p>
 
-
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/trema.) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabrielfddba) 
-
-# 💻 Tech Stack:
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=giwnltrema&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=giwnltrema&theme=darcula&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=giwnltrema&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://linkedin.com/in/gabrielfddba"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://discord.gg/trema."><img src="https://img.shields.io/badge/Discord-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://github.com/giwnltrema"><img src="https://img.shields.io/badge/GitHub-0f172a?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=giwnltrema&icon=10&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### Agora
+- Construindo o **control plane DBRE** para Kubernetes (GitOps + backup validado + observabilidade plug-and-play).
+- Obcecado por **recuperação testada**: backups com restore diário e SLO visível.
+- Devoto de **telemetria primeiro**: métricas, logs e alertas opinados para bancos críticos.
 
-<br dsplay="inline-block" align="center">
+### Toolbox que mais uso
+- **Bancos**: Postgres (Patroni/pgbouncer), MySQL (PXC/ProxySQL), MongoDB.
+- **Cloud/Infra**: AWS (RDS, EC2, S3, VPC), Kubernetes, ArgoCD, Crossplane/Helm.
+- **Ops**: Python, PowerShell, Git, Observabilidade (Prometheus, Grafana, Loki, Alertmanager).
+- **Práticas**: SRE/DBRE, game days de failover, segurança de dados, finops aplicado a storage/IOPS.
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giwnltrema/giwnltrema/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giwnltrema/giwnltrema/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/giwnltrema/giwnltrema/output/github-snake.svg" />
-</picture>
+### Destaques rápidos
+- `DBRE mindset` — foco em resiliência, custo e segurança por padrão.
+- `Automação` — pipelines GitOps e scripts para acelerar onboarding e reduzir toil.
+- `Comunicação` — dashboards e scorecards para que times vejam saúde real do banco.
 
-###
+### Repositórios em foco
+- [`dbre-control-plane`](https://github.com/giwnltrema/dbre-control-plane): visão e MVP do control plane DBRE (GitOps + observabilidade + backup verificado).
+- Cheatsheets e experimentos de banco/infra no perfil.
+
+### Métricas do perfil
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=giwnltrema&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=giwnltrema&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giwnltrema&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+</p>
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=giwnltrema&label=visitas&color=4F46E5&icon=5&pretty=true" alt="Visitantes">
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/giwnltrema/giwnltrema/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/giwnltrema/giwnltrema/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/giwnltrema/giwnltrema/output/github-snake.svg" />
+  </picture>
+</p>
