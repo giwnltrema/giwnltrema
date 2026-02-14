@@ -8,70 +8,70 @@
 </p>
 
 <p align="center">
-  <img alt="DBRE Animated Banner PT-BR" src="assets/dbre-animated-banner-ptbr.svg">
+  <img alt="DBRE Animated Banner EN" src="assets/dbre-animated-banner-en.svg">
 </p>
 
 <p align="center">
   <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-Database%20Platform-326CE5?style=flat-square&logo=kubernetes&logoColor=white">
   <img alt="Argo CD" src="https://img.shields.io/badge/Argo%20CD-GitOps-EF7B4D?style=flat-square&logo=argo&logoColor=white">
   <img alt="Crossplane" src="https://img.shields.io/badge/Crossplane-Compositions-3E5C9A?style=flat-square&logo=crossplane&logoColor=white">
-  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-Observabilidade-F46800?style=flat-square&logo=grafana&logoColor=white">
-  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-Metricas-E6522C?style=flat-square&logo=prometheus&logoColor=white">
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-Foco%20Principal-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img alt="Grafana" src="https://img.shields.io/badge/Grafana-Observability-F46800?style=flat-square&logo=grafana&logoColor=white">
+  <img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-Metrics-E6522C?style=flat-square&logo=prometheus&logoColor=white">
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-Primary%20Focus-47A248?style=flat-square&logo=mongodb&logoColor=white">
 </p>
 
 # giwnltrema
 
-DBRE focado em resiliencia de bancos, automacao e plataforma GitOps para reduzir toil de DBA/SRE.
+DBRE focused on database resilience, automation, and GitOps platform operations to reduce DBA/SRE toil.
 
-## Sumario
+## Quick Index
 
-- [Resumo rapido](#resumo-rapido)
-- [Projetos ativos agora](#projetos-ativos-agora)
-- [Stack principal](#stack-principal)
-- [Fluxo operacional](#fluxo-operacional)
-- [Metricas e visuais](#metricas-e-visuais)
-- [Contato](#contato)
+- [Quick summary](#quick-summary)
+- [Projects I am actively building](#projects-i-am-actively-building)
+- [Core stack](#core-stack)
+- [Operating flow](#operating-flow)
+- [Metrics and visuals](#metrics-and-visuals)
+- [Contact](#contact)
 
-## Resumo rapido
+## Quick summary
 
-| Pilar | O que eu entrego | Resultado esperado |
+| Pillar | What I deliver | Expected outcome |
 |---|---|---|
-| DBRE | Bancos clusterizados com padrao operacional | Menor risco de indisponibilidade |
-| GitOps | Provisionamento por PR com politicas e auditoria | Menos mudanca manual e menos erro |
-| Backup/DR | Backup continuo + restore validado | RTO/RPO confiavel de verdade |
-| Observabilidade | Dashboards, alertas e query insights | Diagnostico rapido e menos toil |
+| DBRE | Standardized clustered databases on Kubernetes | Lower outage risk |
+| GitOps | PR-driven provisioning with policies and audit trail | Less manual change and fewer errors |
+| Backup/DR | Continuous backups + validated restore | Real, measurable RTO/RPO |
+| Observability | Dashboards, alerts, and query insights | Faster diagnosis and lower toil |
 
-## Projetos ativos agora
+## Projects I am actively building
 
-| Projeto | Status | Foco atual | Link |
+| Project | Status | Current focus | Link |
 |---|---|---|---|
-| `dbre-control-plane` | Em construcao | Control plane para bancos no K8s com backup/restore e observabilidade integrada | [abrir](https://github.com/giwnltrema/dbre-control-plane) |
-| `terrariadosbobo` | Em evolucao | Referencia de GitOps + observabilidade + automacao de operacao | [abrir](https://github.com/giwnltrema/terrariadosbobo) |
-| `banco-cheatsheet` | Ativo | Conhecimento pratico para operacao e troubleshooting de bancos | [abrir](https://github.com/giwnltrema/banco-cheatsheet) |
+| `dbre-control-plane` | Building | Kubernetes control plane for databases with integrated backup/restore and observability | [open](https://github.com/giwnltrema/dbre-control-plane) |
+| `terrariadosbobo` | Evolving | GitOps + observability + automation reference implementation | [open](https://github.com/giwnltrema/terrariadosbobo) |
+| `banco-cheatsheet` | Active | Practical DB operations and troubleshooting knowledge base | [open](https://github.com/giwnltrema/banco-cheatsheet) |
 
-## Stack principal
+## Core stack
 
-| Area | Tecnologias |
+| Area | Technologies |
 |---|---|
-| Bancos | MongoDB, Postgres, MySQL |
-| Kubernetes DB | Patroni, PXC/ProxySQL, operadores de banco |
+| Databases | MongoDB, Postgres, MySQL |
+| Kubernetes DB | Patroni, PXC/ProxySQL, database operators |
 | Cloud/Infra | AWS, Kubernetes, Terraform, Helm, Crossplane |
-| GitOps | ArgoCD, repos declarativos, reconciliacao continua |
-| Observabilidade | Prometheus, Grafana, Loki, Alertmanager |
-| Automacao | Python, PowerShell, Bash, GitHub Actions |
+| GitOps | ArgoCD, declarative repos, continuous reconciliation |
+| Observability | Prometheus, Grafana, Loki, Alertmanager |
+| Automation | Python, PowerShell, Bash, GitHub Actions |
 
-## Fluxo operacional
+## Operating flow
 
-| Etapa | Como funciona |
+| Step | How it works |
 |---|---|
-| 1. Definicao | Recurso de banco e politicas versionados em Git |
-| 2. Entrega | ArgoCD aplica mudancas declarativas no cluster |
-| 3. Execucao | Operadores sobem clusters resilientes e configuram proxies/exporters |
-| 4. Confiabilidade | Backups e restores de validacao sao monitorados |
-| 5. Operacao | Dashboards e alertas mostram saude, custo e desempenho |
+| 1. Definition | Database resources and policies are versioned in Git |
+| 2. Delivery | ArgoCD applies declarative changes to clusters |
+| 3. Runtime | Operators deploy resilient clusters and wire proxies/exporters |
+| 4. Reliability | Backup and restore validation are continuously monitored |
+| 5. Operations | Dashboards and alerts expose health, cost, and performance |
 
-## Metricas e visuais
+## Metrics and visuals
 
 <p align="center">
   <img alt="Profile details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=giwnltrema&theme=github_dark" />
@@ -88,7 +88,7 @@ DBRE focado em resiliencia de bancos, automacao e plataforma GitOps para reduzir
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=giwnltrema&label=visitas&color=4F46E5&style=flat-square" alt="Visitantes">
+  <img src="https://komarev.com/ghpvc/?username=giwnltrema&label=views&color=4F46E5&style=flat-square" alt="Views">
 </p>
 
 <p align="center">
@@ -99,7 +99,7 @@ DBRE focado em resiliencia de bancos, automacao e plataforma GitOps para reduzir
   </picture>
 </p>
 
-## Contato
+## Contact
 
 <p align="left">
   <a href="https://www.linkedin.com/in/gabrielfdbre/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
