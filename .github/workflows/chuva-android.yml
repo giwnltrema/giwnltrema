@@ -1,0 +1,42 @@
+name: Chuva (Android) – build APK
+
+on:
+  push:
+    paths:
+      - "chuva-app/**"
+      - ".github/workflows/chuva-android.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    defaults:
+      run:
+        working-directory: chuva-app
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-java@v4
+        with:
+          distribution: temurin
+          java-version: 17
+      - uses: gradle/actions/setup-gradle@v4
+      - name: Testes + APK
+        run: ./gradlew testDebugUnitTest assembleRelease
+      - name: Renomear APK
+        run: mv app/build/outputs/apk/release/app-release.apk app/build/chuva-${{ github.run_number }}.apk
+      - uses: actions/upload-artifact@v4
+        with:
+          name: chuva-apk
+          path: chuva-app/app/build/chuva-${{ github.run_number }}.apk
+      - name: Publicar release (baixar direto pelo celular)
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: chuva-v${{ github.run_number }}
+          name: Chuva build ${{ github.run_number }}
+          target_commitish: ${{ github.sha }}
+          make_latest: true
+          files: chuva-app/app/build/chuva-${{ github.run_number }}.apk
